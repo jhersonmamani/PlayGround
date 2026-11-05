@@ -16,3 +16,19 @@
 - 👤 [Explore the creator's projects](https://go.ondev.store/jhersonmamani).
 - 🌍 [Create with OMGithub](https://go.ondev.store/).
 <!-- omgithub:readme:end -->
+
+## VOID RUNNER — Ecos del Vacío
+
+Un metroidvania espacial jugable en el navegador. Explora cuatro sectores, derrota a tres guardianes y desbloquea nuevas tecnologías para llegar a la cápsula de escape.
+
+### Controles
+
+- **A / D** o **← / →**: moverse
+- **W / Espacio / ↑**: saltar (doble salto al desbloquearlo)
+- **J / clic**: disparar (el haz iónico consume energía)
+- **K / Shift**: impulso vectorial (se desbloquea tras el primer jefe)
+- **R**: reiniciar tras caer
+- En móviles, usa los controles táctiles en pantalla.
+
+Abre `index.html` en un navegador para jugar; no requiere instalación ni dependencias.
+
